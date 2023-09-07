@@ -11,6 +11,7 @@ permalink: /people/
 - [![Eduardo Bonelli]({{ "/assets/ebonelli.jpg" | relative_url }}) Eduardo Bonelli](https://ebonelli.github.io/)
 - [![Tegan Brennan]({{ "/assets/tbrenna5.jpg" | relative_url }}) Tegan Brennan](https://faculty.stevens.edu/tbrenna5)
 - [![Dominic Duggan]({{ "/assets/dduggan.jpg" | relative_url }}) Dominic Duggan](https://www.cs.stevens.edu/~dduggan/)
+- [![Will Eiers]({{ "/assets/weiers.jpg" | relative_url }}) Will Eiers](https://sites.cs.ucsb.edu/~weiers/)
 - [![Michael Greenberg]({{ "/assets/mgreenbe.jpg" | relative_url }})  Michael Greenberg](https://mgree.github.io)
 - [![Eric Koskinen]({{ "/assets/ekoskine.jpg" | relative_url }}) Eric Koskinen](https://www.cs.stevens.edu/~ejk/#/~ejk/)
 - [![Philippe Meunier]({{ "/assets/pmeunier.jpg" | relative_url }}) Philippe Meunier](https://faculty.stevens.edu/pmeunier/)
@@ -18,16 +19,17 @@ permalink: /people/
 - [![Antonio Nicolosi]({{ "/assets/anicolos.jpg" | relative_url }}) Antonio Nicolosi](https://www.cs.stevens.edu/~nicolosi/)
 - [![Georgios Portokalidis]({{ "/assets/gportoka.jpg" | relative_url }}) Georgios Portokalidis](https://www.portokalidis.net/)
 - [![Susanne Wetzel]({{ "/assets/swetzel.jpg" | relative_url }}) Susanne Wetzel](https://www.cs.stevens.edu/~swetzel/)
+- [![Xiaodong Yu]({{ "/assets/xyu38.jpg" | relative_url }}) Xiaodong Yu](https://xiaodong-yu.github.io/)
 
 
 ## Students
 
 - [![aakinsan]({{ "/assets/missing.jpg" | relative_url }}) Ayomide Akinsanya](https://github.com/akinsanyaayomide)
 - ![achen19]({{ "/assets/missing.jpg" | relative_url }}) Adam Neil Chen 
+- ![fdoshi]({{ "/assets/fdoshi.jpg" | relative_url }}) Feneel Doshi
 - ![pfathol1]({{ "/assets/missing.jpg" | relative_url }}) Parisa Fathololumi
 - ![shuang53]({{ "/assets/missing.jpg" | relative_url }}) Shan Huang
 - ![kklefto1]({{ "/assets/missing.jpg" | relative_url }}) Koss Kleftogiorgos
-- ![yliu195]({{ "/assets/missing.jpg" | relative_url }}) Yuandong Liu
 - [![rnagasam]({{ "/assets/rnagasam.jpg" | relative_url }}) Ramana Nagasamudram](https://github.com/rnagasam)
 - ![lnicola]({{ "/assets/missing.jpg" | relative_url }}) Mihai Nicolla
 - ![vrajagop]({{ "/assets/missing.jpg" | relative_url }}) Vidya Lakshmi Rajagopalan
@@ -41,7 +43,9 @@ permalink: /people/
 - [![fdoshi]({{ "/assets/fdoshi.jpeg" | relative_url }}) Feneel Doshi]
 
 
+
 ## Alumni
 
 - [![Ton Chanh Le]({{ "/assets/tchanhle.jpg" | relative_url }}) Ton Chanh Le](https://letonchanh.github.io/) (Algorand)
+- [![yliu195]({{ "/assets/missing.jpg" | relative_url }}) Yuandong Cyrus Liu](https://cyrusliu.me/)
 - [![Jared Pincus]({{ "/assets/jpincus.jpg" | relative_url }}) Jared Pincus](https://jaredpincus.com/) (PhD at BU)
